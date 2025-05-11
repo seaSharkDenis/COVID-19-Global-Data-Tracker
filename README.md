@@ -8,7 +8,7 @@ By the end, they’ll have a data analysis report with visuals and narrative ins
 
 ---
 
-🚩## Project Objectives:
+## Project Objectives:
 
 ✅ Import and clean COVID-19 global data  
 ✅ Analyze time trends (cases, deaths, vaccinations)  
